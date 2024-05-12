@@ -1,0 +1,4 @@
+transaction date,transaction description,detailed description,amount ($)
+20240404,My Online Shop XYZ,Invoice 1234,-123.45
+20240403,My Online Shop ABC,Invoice 5678,-54.32
+20240402,My Employer,April 2024,"1,234.56"
